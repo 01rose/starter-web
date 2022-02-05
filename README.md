@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. adding more lines
+This repository is for showing how Git and GitHub work. adding more lines, then more changes for myfeture branch
 
 ## Introduction
 

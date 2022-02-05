@@ -1,11 +1,19 @@
 <!DOCTYPE html>
 
-<!-- açıklama koyalımm 
- adding changes before rebasing conflicts
+<<<<<<< HEAD
+<!-- mastera geçtik kanks 
 -->
 
 <head>
-	<title>An Example Website</title>
+	<title>no bela</title>
+=======
+<!--  
+bigtrouble branch için açıklama koyma şekli mi peki
+-->
+
+<head>
+	<title>belalıyım diyorum kızım sana</title>
+>>>>>>> bigtrouble
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,8 +27,12 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
+<<<<<<< HEAD
+			takılmaca
+=======
+			öyle işte
 		</p>
+>>>>>>> bigtrouble
 	</main>
 	<footer class="container">
 		<p>&copy; Company 2014</p>
